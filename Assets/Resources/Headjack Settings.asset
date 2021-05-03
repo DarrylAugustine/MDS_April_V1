@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   appID: ddf418efcc1a3eac0492fc0bb313b3d9
   AUTHKey: 6cbbcafa5b10b56e52a64b2e1886c779c5936f4b7cb4af2d
-  Platform: 7
-  Device: 9
+  Platform: 0
+  Device: 0
   Store: 0
   DevBucket: 0
